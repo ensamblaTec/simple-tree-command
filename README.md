@@ -2,9 +2,9 @@
 
 ## Funcionalidades
 
-- [ ]  Aplicación CLI
-- [ ]  Instalarla en el dispositivo
-- [ ]  Diseñar la app
-- [ ]  Permite mostrar el directorio actual
-- [ ]  Permite mostrar los ficheros del directorio elegido
-- [ ]  Muestra el árbol de directorios actual
+- [X]  Aplicación CLI
+- [X]  Instalarla en el dispositivo
+- [X]  Diseñar la app
+- [X]  Permite mostrar el directorio actual
+- [X]  Permite mostrar los ficheros del directorio elegido
+- [X]  Muestra el árbol de directorios actual
